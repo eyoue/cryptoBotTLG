@@ -1,4 +1,4 @@
-<p align="center" style="font-size: 14pt"> <b>cryptoBotTLG</b> </p>
+<p align="center" style="font-size: 20pt; color: blue"> <b>cryptoBotTLG</b> </p>
 <p align="center">
 <img width="100" height="100" src="http://www.botsfloor.com/static/images/botsfloor.png"> <br>
 <b>This bot created by me for learning library "Flask" on python.</b> <br>
